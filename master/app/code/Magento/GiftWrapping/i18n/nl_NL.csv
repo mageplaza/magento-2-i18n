@@ -33,7 +33,7 @@
 "None","Geen"
 "The image content must be valid data.","De inhoud van de afbeelding heeft geen geldige gegevens."
 "The image extension ""%1"" not allowed.","De afbeelding extensie ""%1"" niet toegestaan."
-"Provided image name contains forbidden characters.","De opgegeven afbeelding bevat ongeldige tekens."
+"Provided image name contains forbidden characters.","De opgegeven afbeeldingsnaam bevat ongeldige tekens."
 "The image MIME type is not valid or not supported.","De afbeelding MIME type is niet geldig of wordt niet ondersteund."
 "Gift Wrapping with specified ID ""%1"" not found.","Kadoverpakking met de opgegeven ID ""%1"" is niet gevonden."
 "Please enter valid currency code: %1","Geef een geldige valutacode: %1"
